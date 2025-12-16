@@ -1,0 +1,11 @@
+Post_ID,Platform,Username,Post_Date,Post_Type,Likes,Comments,Shares,Views,Post_Text,Sentiment_Score,Sentiment
+P001,Instagram,tech_world,2025-01-05,Image,1200,85,45,15000,"Amazing tech innovation, loved it",2,Positive
+P002,Facebook,foodie_life,2025-01-06,Video,980,120,60,22000,The food was delicious and awesome,2,Positive
+P003,Twitter,news_daily,2025-01-06,Text,450,60,110,8000,This is bad news and very disappointing,-2,Negative
+P004,Instagram,travel_diaries,2025-01-07,Reel,2300,190,210,45000,Traveling makes me happy and excited,2,Positive
+P005,LinkedIn,data_analyst,2025-01-08,Article,650,40,90,12000,Great career tips for data analysts,1,Positive
+P006,YouTube,learn_python,2025-01-08,Video,5400,620,800,98000,Python tutorial is excellent and helpful,1,Positive
+P007,Facebook,fitness_zone,2025-01-09,Image,870,55,30,10000,Fitness is good for health,1,Positive
+P008,Twitter,startup_talks,2025-01-10,Text,390,48,75,6000,Startup growth is slow and risky,-2,Negative
+P009,Instagram,fashion_hub,2025-01-10,Carousel,1800,140,95,32000,Fashion trends look beautiful,1,Positive
+P010,LinkedIn,marketing_pro,2025-01-11,Post,720,65,110,15000,Marketing strategy is very effective,1,Positive

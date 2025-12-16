@@ -1,0 +1,11 @@
+Post_ID,Platform,Username,Post_Date,Post_Type,Likes,Comments,Shares,Views
+P001,Instagram,tech_world,2025-01-05,Image,1200,85,45,15000
+P002,Facebook,foodie_life,2025-01-06,Video,980,120,60,22000
+P003,Twitter,news_daily,2025-01-06,Text,450,60,110,8000
+P004,Instagram,travel_diaries,2025-01-07,Reel,2300,190,210,45000
+P005,LinkedIn,data_analyst,2025-01-08,Article,650,40,90,12000
+P006,YouTube,learn_python,2025-01-08,Video,5400,620,800,98000
+P007,Facebook,fitness_zone,2025-01-09,Image,870,55,30,10000
+P008,Twitter,startup_talks,2025-01-10,Text,390,48,75,6000
+P009,Instagram,fashion_hub,2025-01-10,Carousel,1800,140,95,32000
+P010,LinkedIn,marketing_pro,2025-01-11,Post,720,65,110,15000
